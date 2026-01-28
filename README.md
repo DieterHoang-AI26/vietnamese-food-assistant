@@ -36,7 +36,7 @@ Vietnamese Food Assistant là một hệ thống AI tiên tiến được xây d
 ### Core Components
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   Chat    │───▶│   LangGraph      │───▶│   RAG Engine    │
+│   Chat          │───▶│   LangGraph      │───▶│       RAG Engine│
 │   Interface     │    │   Workflow       │    │   (ChromaDB)    │
 └─────────────────┘    └──────────────────┘    └─────────────────┘
                               │
@@ -429,10 +429,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **Hypothesis**: Property-based testing framework
 
 ## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Email**: your-email@domain.com
+- **Email**: dieterhoang.ai@gmail.com
 
 ---
 
