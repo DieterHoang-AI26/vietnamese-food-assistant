@@ -578,12 +578,7 @@ class QuickVietnameseFoodChat:
                 turns_remembered = [str(turn_data['turn']) for turn_data in self.constraint_history]
                 print(f"   💾 Đang nhớ từ lượt: {', '.join(turns_remembered)}")
         
-        # Câu hỏi gợi ý
-        follow_up = response.get('follow_up_questions', [])
-        if follow_up:
-            print(f"\n❓ Bạn có thể hỏi:")
-            for i, question in enumerate(follow_up[:3], 1):
-                print(f"   {i}. {question}")
+
     
     def run_chat(self):
         """Chạy chat."""
@@ -595,17 +590,6 @@ class QuickVietnameseFoodChat:
         print("🍜 TRỢ LÝ MÓN ĂN VIỆT NAM - QUICK CHAT")
         print("="*60)
         print("🤖 Xin chào! Tôi là trợ lý tư vấn món ăn Việt Nam.")
-        print("✨ Tính năng:")
-        print("   - 🔤 Sửa lỗi chính tả tự động")
-        print("   - 🧠 Hiểu ràng buộc dinh dưỡng")
-        print("   - � Nhớ yêu cầu trong 2 lượt gần nhất")
-        print("   - �🔍 Tìm kiếm thông minh")
-        print("   - 💬 Phản hồi tự nhiên")
-        print("\n💡 Thử các câu này:")
-        print("   - 'cho toi mon ga' (có lỗi chính tả)")
-        print("   - 'tôi dị ứng tôm'")
-        print("   - 'có món chay nào không'")
-        print("   - 'menu có gì ngon'")
         print("\n📝 Gõ 'tạm biệt' để kết thúc")
         print("="*60)
         
