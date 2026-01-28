@@ -1,0 +1,1418 @@
+[
+  {
+    "id": "DRK-CFS",
+    "name_vi": "Cà Phê Sữa Đá",
+    "name_en": "Iced Coffee with Milk",
+    "description": "Cà phê Robusta pha phin, kết hợp sữa đặc có đường, phục vụ với đá viên.",
+    "category": "Coffee",
+    "subcategory": "Giải khát nhanh",
+    "price": 35000,
+    "ingredients": [
+      "Cà phê Robusta",
+      "sữa đặc",
+      "nước",
+      "đá"
+    ],
+    "allergens": [
+      "Sữa"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 12,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Đắng đậm của cà phê, hòa quyện với vị ngọt béo của sữa đặc."
+    ],
+    "cuisine_tags": [
+      "ca_phe_sua",
+      "ca_phe_viet_nam",
+      "g_luong",
+      "tinh_tao",
+      "buoi_sang"
+    ],
+    "meal_type": [
+      "sang",
+      "chieu"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "DRK-CFD",
+    "name_vi": "Cà Phê Đen Đá",
+    "name_en": "Iced Black Coffee",
+    "description": "Cà phê Robusta nguyên chất pha phin, không đường, phục vụ với đá viên.",
+    "category": "Coffee",
+    "subcategory": "Giải khát nhanh",
+    "price": 35000,
+    "ingredients": [
+      "Cà phê Robusta",
+      "nước",
+      "đá"
+    ],
+    "allergens": [
+      "Không có"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 12,
+    "popularity_score": 0.7,
+    "taste_profile": [
+      "Đắng gắt, mạnh mẽ, hậu vị ngọt nhẹ tự nhiên."
+    ],
+    "cuisine_tags": [
+      "ca_phe_den",
+      "khong_duong",
+      "g_luong_cao",
+      "tinh_tao",
+      "tap_trung"
+    ],
+    "meal_type": [
+      "sang",
+      "chieu"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "DRK-TRL",
+    "name_vi": "Trà Lipton Chanh",
+    "name_en": "Lemon Tea",
+    "description": "Trà Lipton túi lọc pha với nước nóng, thêm đường, chanh tươi và đá.",
+    "category": "Tea",
+    "subcategory": "Giải khát nhanh",
+    "price": 35000,
+    "ingredients": [
+      "Trà Lipton",
+      "chanh",
+      "đường",
+      "nước",
+      "đá"
+    ],
+    "allergens": [
+      "Không có"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 12,
+    "popularity_score": 0.9,
+    "taste_profile": [
+      "Vị trà đen nhẹ, kết hợp vị chua thanh của chanh và ngọt dịu của đường."
+    ],
+    "cuisine_tags": [
+      "giai_khat",
+      "giai_nhiet",
+      "tra_chanh",
+      "vitamin_c",
+      "sau_bua_an"
+    ],
+    "meal_type": [
+      "sang",
+      "chieu"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "DRK-NCC",
+    "name_vi": "Nước Chanh",
+    "name_en": "Lemonade",
+    "description": "Nước cốt chanh tươi pha với đường và nước lọc, phục vụ với đá.",
+    "category": "Juice",
+    "subcategory": "Giải khát nhanh",
+    "price": 25000,
+    "ingredients": [
+      "Chanh",
+      "đường",
+      "nước",
+      "đá"
+    ],
+    "allergens": [
+      "Không có"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 12,
+    "popularity_score": 0.9,
+    "taste_profile": [
+      "Chua thanh của chanh tươi, cân bằng với vị ngọt của đường."
+    ],
+    "cuisine_tags": [
+      "giai_khat",
+      "giai_nhiet",
+      "khong_caffeine",
+      "vitamin_c",
+      "healthy"
+    ],
+    "meal_type": [
+      "sang",
+      "chieu"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "DRK-TRG",
+    "name_vi": "Trà Gừng Ấm Nóng",
+    "name_en": "Hot Ginger Tea",
+    "description": "Gừng tươi thái lát nấu cùng nước nóng, có thể thêm đường hoặc mật ong.",
+    "category": "Herbal Tea",
+    "subcategory": "Giải khát nhanh",
+    "price": 30000,
+    "ingredients": [
+      "Gừng",
+      "nước",
+      "đường",
+      "mật ong"
+    ],
+    "allergens": [
+      "Không có"
+    ],
+    "spice_level": 1,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 12,
+    "popularity_score": 0.4,
+    "taste_profile": [
+      "Cay nồng của gừng tươi, cân bằng bởi vị ngọt thanh."
+    ],
+    "cuisine_tags": [
+      "am_bung",
+      "giai_cam",
+      "tot_cho_co_hong",
+      "mon_cho_troi_lanh"
+    ],
+    "meal_type": [
+      "sang",
+      "chieu"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "DRK-WTR",
+    "name_vi": "Nước Lọc Chai (Tự Phục Vụ)",
+    "name_en": NaN,
+    "description": "Nước khoáng tinh khiết đóng chai 500ml, miễn phí, tự phục vụ tại quầy.",
+    "category": "Amenity",
+    "subcategory": "Tiện ích Miễn phí",
+    "price": 0,
+    "ingredients": [
+      "Nước khoáng tinh khiết."
+    ],
+    "allergens": [
+      "Không có"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 0,
+    "popularity_score": 0.5,
+    "taste_profile": [
+      "Tinh khiết, không vị."
+    ],
+    "cuisine_tags": [
+      "tu_phuc_vu",
+      "mien_phi",
+      "nuoc_suoi"
+    ],
+    "meal_type": [
+      "chieu"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "FST-CCR",
+    "name_vi": "Cơm Chiên Rau Củ",
+    "name_en": "Vegetable Fried Rice",
+    "description": "Cơm trắng chiên với các loại rau củ thái hạt lựu.",
+    "category": "Quick Meal",
+    "subcategory": "Nạp năng lượng tức thì",
+    "price": 40000,
+    "ingredients": [
+      "Cơm",
+      "rau củ",
+      "gia vị"
+    ],
+    "allergens": [
+      "Đậu nành (nước tương"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 20,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Mặn, ngọt nhẹ từ rau củ."
+    ],
+    "cuisine_tags": [
+      "com_chien",
+      "rau_cu",
+      "an_trua",
+      "bua_chinh",
+      "chay_duoc"
+    ],
+    "meal_type": [
+      "trua",
+      "toi"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "FST-CTC",
+    "name_vi": "Cơm Trứng Chiên",
+    "name_en": "Egg Fried Rice",
+    "description": "Cơm trắng nóng, phục vụ với trứng gà ốp la hoặc chiên, rưới nước tương.",
+    "category": "Quick Meal",
+    "subcategory": "Nạp năng lượng tức thì",
+    "price": 40000,
+    "ingredients": [
+      "Cơm",
+      "trứng",
+      "nước tương"
+    ],
+    "allergens": [
+      "Trứng",
+      "Đậu nành (nước tương"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 20,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Mặn, béo từ trứng."
+    ],
+    "cuisine_tags": [
+      "com_trung_chien",
+      "an_sang",
+      "an_trua",
+      "com_vien"
+    ],
+    "meal_type": [
+      "trua",
+      "toi"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "FST-MGT",
+    "name_vi": "Mì Gói Trứng",
+    "name_en": "Instant Noodles with Egg",
+    "description": "Mì gói ăn liền nấu với nước sôi và thêm một quả trứng gà, có thể tùy chọn các loại mì Việt Nam.",
+    "category": "Quick Meal",
+    "subcategory": "Nạp năng lượng tức thì",
+    "price": 40000,
+    "ingredients": [
+      "Mì ăn liền (tùy chọn",
+      "trứng",
+      "gói gia vị",
+      "nước"
+    ],
+    "allergens": [
+      "Gluten",
+      "Trứng"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 20,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Phụ thuộc vào loại mì được chọn (chua cay/đậm đà), béo từ trứng."
+    ],
+    "cuisine_tags": [
+      "an_nong",
+      "no_nhanh",
+      "tien_loi",
+      "an_trua_nhanh",
+      "mi_viet_nam"
+    ],
+    "meal_type": [
+      "trua",
+      "toi"
+    ],
+    "dietary_labels": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "FST-BCG",
+    "name_vi": "Bún Chả Giò",
+    "name_en": "Vermicelli with Spring Rolls",
+    "description": "Bún tươi, chả giò chiên giòn, rau sống, phục vụ với nước mắm chua ngọt.",
+    "category": "Quick Meal",
+    "subcategory": "Nạp năng lượng tức thì",
+    "price": 40000,
+    "ingredients": [
+      "Bún",
+      "chả giò",
+      "rau",
+      "nước mắm"
+    ],
+    "allergens": [
+      "Gluten",
+      "Cá (nước mắm"
+    ],
+    "spice_level": 1,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 20,
+    "popularity_score": 0.7,
+    "taste_profile": [
+      "Chua, cay, mặn, ngọt cân bằng, béo giòn từ chả giò."
+    ],
+    "cuisine_tags": [
+      "bun_cha_gio",
+      "mon_nuoc_mat",
+      "an_trua",
+      "du_chat"
+    ],
+    "meal_type": [
+      "trua",
+      "toi"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan"
+    ]
+  },
+  {
+    "id": "FST-MXR",
+    "name_vi": "Miến Xào Rau Củ",
+    "name_en": "Stir-fried Glass Noodles with Vegetables",
+    "description": "Miến dong xào cùng các loại rau củ theo mùa (cà rốt, nấm, hành tây).",
+    "category": "Quick Meal",
+    "subcategory": "Nạp năng lượng tức thì",
+    "price": 40000,
+    "ingredients": [
+      "Miến dong",
+      "cà rốt",
+      "nấm",
+      "rau củ khác"
+    ],
+    "allergens": [
+      "Đậu nành (nước tương"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 20,
+    "popularity_score": 0.7,
+    "taste_profile": [
+      "Ngọt thanh từ rau củ, mặn nhẹ từ gia vị."
+    ],
+    "cuisine_tags": [
+      "an_chay",
+      "mon_xao",
+      "healthy",
+      "nhieu_rau",
+      "nhe_bung"
+    ],
+    "meal_type": [
+      "trua",
+      "toi"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-BF-CHA",
+    "name_vi": "Cháo Thập Cẩm & Sữa Chua",
+    "name_en": NaN,
+    "description": "Cháo hầm xương với thịt bằm, tôm, nấm. Ăn kèm sữa chua.",
+    "category": "Bữa sáng",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 35000,
+    "ingredients": [
+      "Gạo",
+      "xương",
+      "thịt heo",
+      "tôm",
+      "nấm",
+      "sữa chua"
+    ],
+    "allergens": [
+      "Hải sản",
+      "Sữa"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.7,
+    "taste_profile": [
+      "Ngọt thanh từ nước xương, đậm đà từ thịt và tôm."
+    ],
+    "cuisine_tags": [
+      "bua_sang",
+      "an_sang_lanh_manh",
+      "chao_dinh_duong",
+      "de_tieu"
+    ],
+    "meal_type": [
+      "sang"
+    ],
+    "dietary_labels": [
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-BF-BTN",
+    "name_vi": "Bún Thịt Nướng Chả Giò",
+    "name_en": NaN,
+    "description": "Bún tươi, thịt nướng, chả giò, rau sống và nước mắm chua ngọt.",
+    "category": "Bữa sáng",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 40000,
+    "ingredients": [
+      "Bún",
+      "thịt heo",
+      "chả giò",
+      "rau",
+      "nước mắm",
+      "đậu phộng"
+    ],
+    "allergens": [
+      "Gluten",
+      "Cá (nước mắm",
+      "Đậu phộng"
+    ],
+    "spice_level": 1,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.6,
+    "taste_profile": [
+      "Mặn, ngọt, chua, béo hài hòa."
+    ],
+    "cuisine_tags": [
+      "bua_sang",
+      "bun_thit_nuong",
+      "no_lau",
+      "g_luong_cao"
+    ],
+    "meal_type": [
+      "sang"
+    ],
+    "dietary_labels": []
+  },
+  {
+    "id": "PRE-BF-HLC",
+    "name_vi": "Combo Khoai Lang, Chuối & Sữa Chua",
+    "name_en": NaN,
+    "description": "Combo lành mạnh gồm khoai lang Nhật bùi ngọt, chuối giàu năng lượng và sữa chua nha đam mát lành.",
+    "category": "Bữa sáng",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 35000,
+    "ingredients": [
+      "Khoai lang Nhật",
+      "chuối",
+      "sữa chua nha đam"
+    ],
+    "allergens": [
+      "Sữa"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.3,
+    "taste_profile": [
+      "Khoai lang bùi dẻo, chuối ngọt tự nhiên, sữa chua nha đam chua dịu, mát lành."
+    ],
+    "cuisine_tags": [
+      "bua_sang",
+      "healthy",
+      "lanh_manh",
+      "giam_can",
+      "an_nhanh",
+      "khong_nau",
+      "tot_cho_tieu_hoa"
+    ],
+    "meal_type": [
+      "sang"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-LU-GNH",
+    "name_vi": "Cơm Gà Nướng Mật Ong",
+    "name_en": NaN,
+    "description": "Cơm, đùi gà nướng mật ong và bắp cải xào.",
+    "category": "Bữa trưa",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 40000,
+    "ingredients": [
+      "Gạo",
+      "đùi gà",
+      "mật ong",
+      "bắp cải",
+      "cà rốt"
+    ],
+    "allergens": [
+      "Đậu nành (nước tương"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Mặn, ngọt."
+    ],
+    "cuisine_tags": [
+      "com_van_phong",
+      "com_ga",
+      "bua_trua_du_chat"
+    ],
+    "meal_type": [
+      "trua"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-LU-TBL",
+    "name_vi": "Cơm Thịt Luộc Chấm Chao, Canh Mồng Tơi",
+    "name_en": NaN,
+    "description": "Thịt ba rọi luộc mềm ngọt, chấm chao béo thơm đặc trưng, ăn kèm canh mồng tơi thanh mát.",
+    "category": "Bữa trưa",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 35000,
+    "ingredients": [
+      "Gạo",
+      "thịt ba rọi",
+      "chao",
+      "mồng tơi",
+      "đậu bắp",
+      "gia vị"
+    ],
+    "allergens": [
+      "Đậu nành"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Thịt luộc ngọt béo, chao mặn béo vừa miệng, canh mồng tơi thanh mát cân bằng vị giác."
+    ],
+    "cuisine_tags": [
+      "com_van_phong",
+      "com_nha",
+      "thit_luoc",
+      "thanh_mat",
+      "de_tieu",
+      "it_dau_mo"
+    ],
+    "meal_type": [
+      "trua"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-LU-TKH",
+    "name_vi": "Cơm Thịt Kho Trứng, Canh Bí Đỏ",
+    "name_en": NaN,
+    "description": "Thịt kho trứng đậm đà màu cánh gián, ăn cùng cơm trắng dẻo thơm và canh bí đỏ thanh mát.",
+    "category": "Bữa trưa",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 40000,
+    "ingredients": [
+      "Gạo",
+      "thịt heo",
+      "trứng",
+      "bí đỏ",
+      "rau củ xào",
+      "gia vị"
+    ],
+    "allergens": [
+      "Trứng",
+      "Đậu nành"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Nước kho mặn ngọt thấm vào thịt mềm và trứng bùi, canh bí đỏ ngọt thanh cân bằng."
+    ],
+    "cuisine_tags": [
+      "com_van_phong",
+      "com_nha",
+      "thit_kho",
+      "am_bung",
+      "no_lau"
+    ],
+    "meal_type": [
+      "trua"
+    ],
+    "dietary_labels": [
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-LU-MXS",
+    "name_vi": "Cơm Mực Xào Sả Ớt",
+    "name_en": NaN,
+    "description": "Mực tươi giòn xào sả ớt thơm lừng, cay nồng, ăn cùng rau xào và canh ngọt dịu.",
+    "category": "Bữa trưa",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 40000,
+    "ingredients": [
+      "Gạo",
+      "mực",
+      "sả",
+      "ớt",
+      "rau cải",
+      "bí đỏ",
+      "gia vị"
+    ],
+    "allergens": [
+      "Hải sản"
+    ],
+    "spice_level": 2,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Mực ngọt tự nhiên quyện vị sả ớt cay ấm, được cân bằng bởi rau xào và canh ngọt."
+    ],
+    "cuisine_tags": [
+      "com_van_phong",
+      "hai_san",
+      "mon_cay",
+      "tinh_tao"
+    ],
+    "meal_type": [
+      "trua"
+    ],
+    "dietary_labels": [
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-LU-GCN",
+    "name_vi": "Cơm Gà Chiên Nước Mắm, Trứng Ốp La",
+    "name_en": NaN,
+    "description": "Đùi gà chiên nước mắm vàng giòn, trứng ốp la béo ngậy, ăn cùng cơm nóng và canh rau thanh mát.",
+    "category": "Bữa trưa",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 40000,
+    "ingredients": [
+      "Gạo",
+      "đùi gà",
+      "trứng",
+      "nước mắm",
+      "su su",
+      "cải ngọt",
+      "gia vị"
+    ],
+    "allergens": [
+      "Trứng",
+      "Cá (nước mắm",
+      "Đậu nành"
+    ],
+    "spice_level": 1,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Gà chiên mặn ngọt, trứng ốp la béo ngậy, canh rau thanh mát cân bằng."
+    ],
+    "cuisine_tags": [
+      "com_van_phong",
+      "com_ga",
+      "com_chien",
+      "no_lau"
+    ],
+    "meal_type": [
+      "trua"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-LU-CHS",
+    "name_vi": "Cơm Chiên Hải Sản, Canh Bí Xanh",
+    "name_en": NaN,
+    "description": "Cơm chiên tơi hạt với tôm tươi, ăn cùng canh bí xanh hầm sườn non ngọt thanh.",
+    "category": "Bữa trưa",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 40000,
+    "ingredients": [
+      "Gạo",
+      "tôm",
+      "trứng",
+      "sườn non",
+      "bí xanh",
+      "bắp cải",
+      "gia vị"
+    ],
+    "allergens": [
+      "Hải sản",
+      "Trứng"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Cơm chiên đậm đà, tôm tươi ngọt, canh bí xanh sườn non thanh dịu."
+    ],
+    "cuisine_tags": [
+      "com_van_phong",
+      "com_chien",
+      "hai_san",
+      "thanh_mat"
+    ],
+    "meal_type": [
+      "trua"
+    ],
+    "dietary_labels": [
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-LU-SKH",
+    "name_vi": "Cơm Sườn Kho, Trứng Ốp La",
+    "name_en": NaN,
+    "description": "Sườn cốt lết kho mềm rục, đậm đà, ăn cùng trứng ốp la, rau xào và canh nóng.",
+    "category": "Bữa trưa",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 50000,
+    "ingredients": [
+      "Gạo",
+      "sườn cốt lết",
+      "trứng",
+      "cải ngọt",
+      "bí đỏ",
+      "gia vị"
+    ],
+    "allergens": [
+      "Trứng",
+      "Đậu nành"
+    ],
+    "spice_level": 1,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Sườn kho mặn ngọt thấm vị, trứng béo ngậy, canh rau thanh mát."
+    ],
+    "cuisine_tags": [
+      "com_van_phong",
+      "com_suon",
+      "com_nha",
+      "no_lau"
+    ],
+    "meal_type": [
+      "trua"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-LU-CKC",
+    "name_vi": "Cơm Cá Nục Kho Cà",
+    "name_en": NaN,
+    "description": "Cá nục kho cà chua đậm đà, mềm rục, ăn cùng cơm trắng nóng hổi và canh rau.",
+    "category": "Bữa trưa",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 40000,
+    "ingredients": [
+      "Gạo",
+      "cá nục",
+      "cà chua",
+      "bắp cải",
+      "sườn",
+      "gia vị"
+    ],
+    "allergens": [
+      "Cá"
+    ],
+    "spice_level": 1,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Cá mềm thơm trong sốt cà chua chua nhẹ, đậm đà."
+    ],
+    "cuisine_tags": [
+      "com_van_phong",
+      "com_nha",
+      "ca_kho",
+      "am_bung"
+    ],
+    "meal_type": [
+      "trua"
+    ],
+    "dietary_labels": [
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-LU-TBC",
+    "name_vi": "Cơm Thịt Ba Rọi Chiên Giòn",
+    "name_en": NaN,
+    "description": "Ba rọi chiên giòn rụm, vàng ươm, ăn cùng cơm trắng, rau xào và canh thanh mát.",
+    "category": "Bữa trưa",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 45000,
+    "ingredients": [
+      "Gạo",
+      "thịt ba rọi",
+      "cải thìa",
+      "rau dền",
+      "gia vị"
+    ],
+    "allergens": [
+      "-"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Da giòn, mỡ béo, thịt ngọt, vị mặn đậm đà được cân bằng bởi rau và canh."
+    ],
+    "cuisine_tags": [
+      "com_van_phong",
+      "com_thit_chien",
+      "gion_rum",
+      "no_lau"
+    ],
+    "meal_type": [
+      "trua"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-LU-CKQ",
+    "name_vi": "Cơm Canh Khổ Qua Dồn Thịt, Trứng Chiên",
+    "name_en": NaN,
+    "description": "Canh khổ qua hầm kỹ, vị đắng dịu ngọt thanh, ăn cùng trứng chiên hành mềm xốp và cơm nóng.",
+    "category": "Bữa trưa",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 40000,
+    "ingredients": [
+      "Gạo",
+      "khổ qua",
+      "thịt xay",
+      "nấm mèo",
+      "trứng",
+      "gia vị"
+    ],
+    "allergens": [
+      "Trứng"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Khổ qua đắng dịu, nhân thịt ngọt, hậu vị ngọt thanh. Trứng chiên béo bùi cân bằng."
+    ],
+    "cuisine_tags": [
+      "com_van_phong",
+      "com_nha",
+      "thanh_nhiet",
+      "healthy",
+      "giai_nhiet"
+    ],
+    "meal_type": [
+      "trua"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-LU-BXT",
+    "name_vi": "Cơm Bò Xào Giá Hẹ",
+    "name_en": NaN,
+    "description": "Thăn bò mềm ngọt xào nhanh cùng giá hẹ giòn mát, ăn kèm canh bí đỏ ngọt thanh.",
+    "category": "Bữa trưa",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 45000,
+    "ingredients": [
+      "Gạo",
+      "thăn bò",
+      "giá đỗ",
+      "hẹ",
+      "bí đỏ",
+      "đậu hũ",
+      "gia vị"
+    ],
+    "allergens": [
+      "Đậu nành"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Bò mềm đậm đà, giá và hẹ giòn ngọt tươi mát, canh bí đỏ bùi thơm."
+    ],
+    "cuisine_tags": [
+      "com_van_phong",
+      "com_bo",
+      "low_carb",
+      "giau_dam",
+      "healthy"
+    ],
+    "meal_type": [
+      "trua"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "PRE-LU-CKH",
+    "name_vi": "Cơm Cá Kho Tộ",
+    "name_en": NaN,
+    "description": "Cơm, cá kho tộ đậm vị, rau luộc và canh theo ngày.",
+    "category": "Bữa trưa",
+    "subcategory": "Khẩu phần ăn đăng ký trước",
+    "price": 40000,
+    "ingredients": [
+      "Gạo",
+      "cá (lóc/nục",
+      "thịt ba rọi",
+      "gia vị"
+    ],
+    "allergens": [
+      "Cá",
+      "Đậu nành"
+    ],
+    "spice_level": 1,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": null,
+    "popularity_score": 0.8,
+    "taste_profile": [
+      "Mặn, ngọt, cay nhẹ."
+    ],
+    "cuisine_tags": [
+      "com_van_phong",
+      "com_nha",
+      "ca_kho",
+      "am_bung"
+    ],
+    "meal_type": [
+      "trua"
+    ],
+    "dietary_labels": [
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "TEA-BTR",
+    "name_vi": "Bạch Trà Shan Tuyết Cổ Thụ",
+    "name_en": NaN,
+    "description": "Trà từ búp tuyết trắng của cây trà Shan Tuyết cổ thụ, được sấy lạnh để giữ trọn vị tinh khôi.",
+    "category": "Trà Vị Thanh",
+    "subcategory": "Trà Pha Ấm",
+    "price": 250000,
+    "ingredients": [
+      "Búp trà Shan Tuyết"
+    ],
+    "allergens": [
+      "Không có"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 20,
+    "popularity_score": 0.6,
+    "taste_profile": [
+      "Vị thanh khiết, ngọt nhẹ tự nhiên, gần như không có vị chát."
+    ],
+    "cuisine_tags": [
+      "tra_thuong_hang",
+      "tra_shan_tuyet",
+      "tra_vi_thanh",
+      "tiep_khach",
+      "tra_trang"
+    ],
+    "meal_type": [
+      "chieu",
+      "toi"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "TEA-DBT",
+    "name_vi": "Đại Bạch Trà Rừng",
+    "name_en": NaN,
+    "description": "Trà làm từ những chồi non trên nhánh cây trà rừng hoang dã, mang vị ngọt thanh nguyên bản.",
+    "category": "Trà Vị Thanh",
+    "subcategory": "Trà Pha Ấm",
+    "price": 250000,
+    "ingredients": [
+      "Chồi cây trà rừng"
+    ],
+    "allergens": [
+      "Không có"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 20,
+    "popularity_score": 0.6,
+    "taste_profile": [
+      "Vị thanh ngọt nhẹ nhàng, mượt mà, dễ uống cho cả người mới bắt đầu."
+    ],
+    "cuisine_tags": [
+      "tra_vi_thanh",
+      "tra_rung",
+      "de_uong",
+      "khong_chat"
+    ],
+    "meal_type": [
+      "chieu",
+      "toi"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "TEA-DRG",
+    "name_vi": "Trà Đuôi Rồng Sấy Lạnh",
+    "name_en": NaN,
+    "description": "Trà sấy lạnh độc đáo, nổi bật với hương thơm hoa hồng tự nhiên quyến rũ.",
+    "category": "Trà Vị Thanh",
+    "subcategory": "Trà Pha Ấm",
+    "price": 300000,
+    "ingredients": [
+      "Trà Đuôi Rồng"
+    ],
+    "allergens": [
+      "Không có"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 20,
+    "popularity_score": 0.6,
+    "taste_profile": [
+      "Vị thanh, ngọt nhẹ, phảng phất vị trái cây."
+    ],
+    "cuisine_tags": [
+      "tra_doc_dao",
+      "huong_hoa_hong",
+      "tra_vi_thanh",
+      "mon_la"
+    ],
+    "meal_type": [
+      "chieu",
+      "toi"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "TEA-BHA",
+    "name_vi": "Trà Bạch Hạc",
+    "name_en": NaN,
+    "description": "Trà có vị ngọt thanh không chát, đặc trưng bởi hương thơm của các loại hoa quả chín mọng.",
+    "category": "Trà Vị Thanh",
+    "subcategory": "Trà Pha Ấm",
+    "price": 250000,
+    "ingredients": [
+      "Trà Bạch Hạc"
+    ],
+    "allergens": [
+      "Không có"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 20,
+    "popularity_score": 0.6,
+    "taste_profile": [
+      "Vị ngọt thanh rõ rệt, mượt mà trong khoang miệng."
+    ],
+    "cuisine_tags": [
+      "tra_vi_thanh",
+      "huong_trai_cay",
+      "de_uong"
+    ],
+    "meal_type": [
+      "chieu",
+      "toi"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "TEA-NHT",
+    "name_vi": "Nụ Hoa Trà Cổ Thụ",
+    "name_en": NaN,
+    "description": "100% nụ hoa từ cây trà Shan Tuyết cổ thụ Hà Giang, sấy lạnh, cho vị trà ngọt dịu và bền nước.",
+    "category": "Trà Vị Thanh",
+    "subcategory": "Trà Pha Ấm",
+    "price": 300000,
+    "ingredients": [
+      "Nụ hoa trà Shan Tuyết"
+    ],
+    "allergens": [
+      "Không có"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 20,
+    "popularity_score": 0.6,
+    "taste_profile": [
+      "Vị ngọt dịu, thanh mát nơi đầu lưỡi."
+    ],
+    "cuisine_tags": [
+      "tra_hoa",
+      "khong_caffeine",
+      "tra_ngu_ngon",
+      "ben_nuoc"
+    ],
+    "meal_type": [
+      "chieu",
+      "toi"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "TEA-DHB",
+    "name_vi": "Đại Hồng Bào",
+    "name_en": NaN,
+    "description": "Nước trà màu đỏ cam óng mật, vị êm mượt, hương trái cây chín và hậu ngọt lưu luyến.",
+    "category": "Trà Nước Đỏ",
+    "subcategory": "Trà Pha Ấm",
+    "price": 350000,
+    "ingredients": [
+      "Trà Đại Hồng Bào"
+    ],
+    "allergens": [
+      "Không có"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 20,
+    "popularity_score": 0.6,
+    "taste_profile": [
+      "Vị êm, mượt mà, đậm hơn dòng vị thanh, phảng phất hương trái cây chín, hậu vị ngọt sâu."
+    ],
+    "cuisine_tags": [
+      "tra_cao_cap",
+      "tra_nuoc_do",
+      "hau_vi_ngot",
+      "tiep_khach_vip"
+    ],
+    "meal_type": [
+      "chieu",
+      "toi"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "TEA-HTR",
+    "name_vi": "Hồng Trà",
+    "name_en": NaN,
+    "description": "Trà có nước màu đỏ ruby, vị đậm hơn dòng vị thanh, hương thơm tựa mùi mật, dễ uống.",
+    "category": "Trà Nước Đỏ",
+    "subcategory": "Trà Pha Ấm",
+    "price": 250000,
+    "ingredients": [
+      "Hồng Trà"
+    ],
+    "allergens": [
+      "Không có"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 20,
+    "popularity_score": 0.6,
+    "taste_profile": [
+      "Vị đậm vừa, ngọt nhẹ, có thể cảm nhận vị chát rất nhẹ nhưng mượt."
+    ],
+    "cuisine_tags": [
+      "tra_nuoc_do",
+      "de_uong",
+      "tot_cho_tinh_than"
+    ],
+    "meal_type": [
+      "chieu",
+      "toi"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "TEA-STY",
+    "name_vi": "Trà Shan Tuyết (Vị Đậm)",
+    "name_en": NaN,
+    "description": "Trà từ lá của cây trà Shan Tuyết cổ thụ, chế biến để cho ra vị trà đậm đà, chát dịu và hậu ngọt sâu.",
+    "category": "Trà Vị Đậm",
+    "subcategory": "Trà Pha Ấm",
+    "price": 300000,
+    "ingredients": [
+      "Lá trà Shan Tuyết"
+    ],
+    "allergens": [
+      "Không có"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": false,
+    "availability_status": "available",
+    "preparation_time": 20,
+    "popularity_score": 0.6,
+    "taste_profile": [
+      "Vị chát dịu nơi đầu lưỡi, sau đó chuyển thành vị ngọt sâu lắng trong cổ họng."
+    ],
+    "cuisine_tags": [
+      "tra_vi_dam",
+      "tra_shan_tuyet",
+      "tinh_tao_manh",
+      "sanh_tra"
+    ],
+    "meal_type": [
+      "chieu",
+      "toi"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan",
+      "gluten_free"
+    ]
+  },
+  {
+    "id": "SET-BNH",
+    "name_vi": "Tùy chọn Bánh & Trái Cây",
+    "name_en": NaN,
+    "description": "Các loại bánh ngọt từ thương hiệu lựa chọn và trái cây tươi cao cấp theo mùa (Cherry, Nho).",
+    "category": "Add-on",
+    "subcategory": "Set trà bánh (Đặt trước)",
+    "price": null,
+    "ingredients": [
+      "Bánh ngọt (Givral",
+      "BreadTalk...",
+      "Trái cây (Cherry",
+      "Nho"
+    ],
+    "allergens": [
+      "Gluten",
+      "Sữa",
+      "Trứng (tùy loại bánh"
+    ],
+    "spice_level": 0,
+    "requires_advance_order": true,
+    "availability_status": "available",
+    "preparation_time": 180,
+    "popularity_score": 0.4,
+    "taste_profile": [
+      "Ngọt (bánh), chua ngọt (trái cây)."
+    ],
+    "cuisine_tags": [
+      "an_kem_tra",
+      "banh_ngot",
+      "trai_cay",
+      "tiep_khach"
+    ],
+    "meal_type": [
+      "chieu"
+    ],
+    "dietary_labels": [
+      "vegetarian",
+      "vegan"
+    ]
+  }
+]
