@@ -36,7 +36,7 @@ Vietnamese Food Assistant là một hệ thống AI tiên tiến được xây d
 ### Core Components
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   Quick Chat    │───▶│   LangGraph      │───▶│   RAG Engine    │
+│   Chat    │───▶│   LangGraph      │───▶│   RAG Engine    │
 │   Interface     │    │   Workflow       │    │   (ChromaDB)    │
 └─────────────────┘    └──────────────────┘    └─────────────────┘
                               │
@@ -60,6 +60,15 @@ ASR Correction → Context Management → Constraint Extraction → Constraint A
                                                                   ↓
                                                          Response Generation
 ```
+
+
+Kiến trúc RAG trong dự án:
+User Input → ASR Correction → Context Management → Constraint Extraction
+                                      ↓
+Response Generation ← Reranking ← Logic Filters ← RAG RETRIEVAL
+                                                        ↓
+                                              ChromaDB + Fine-tuned Models
+                                              (Vector + BM25 Hybrid Search)
 
 ### Data Architecture
 - **Menu Database**: Structured dish information with metadata
